@@ -7,7 +7,7 @@
 
 ¡Hola! 👋 Soy Diego, ingeniero con más de 8 años de experiencia en análisis operativo. Actualmente me especializo en análisis de datos, automatización de reportes y sistemas centrados en el usuario. Me apasiona convertir datos en historias que generen impacto.
 
-## Sobre mí
+## 🎯Sobre mí
 
 Apasionado por la tecnología y en plena transición hacia el mundo del Data Analytics 🚀
 Currently transitioning into the world of Data Analytics, driven by a passion for technology 🚀
