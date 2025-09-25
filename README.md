@@ -43,7 +43,5 @@ Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analy
 
 ## 🧠 Lenguajes más usados / Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twrz97&layout=compact&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twrz97&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
