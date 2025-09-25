@@ -40,3 +40,8 @@ Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analy
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas Twrz97](https://github-readme-stats.vercel.app/api?username=Twrz97&show_icons=true&theme=radical)
+
+## 🧠 Lenguajes más usados / Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twrz97&layout=compact&theme=tokyonight)
+
