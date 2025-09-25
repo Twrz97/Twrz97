@@ -6,6 +6,7 @@
 ## Sobre mí
 
 Apasionado por la tecnología y en plena transición hacia el mundo del Data Analytics 🚀
+Currently transitioning into the world of Data Analytics, driven by a passion for technology 🚀
 
 📌 Actualmente trabajo en el área de documentación y análisis operativo dentro del sector construcción, pero estoy enfocado en nuevos retos dentro del análisis de datos y éxito del cliente 💥
 
@@ -23,3 +24,14 @@ Apasionado por la tecnología y en plena transición hacia el mundo del Data Ana
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+---
+
+## About Me (English Version)
+
+Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analysis. I'm currently focused on data analytics, reporting automation, and user-centered systems. I love turning data into stories that drive business impact.
+
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas Twrz97](https://github-readme-stats.vercel.app/api?username=Twrz97&show_icons=true&theme=radical)
