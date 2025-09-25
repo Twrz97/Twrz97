@@ -14,7 +14,12 @@ Apasionado por la tecnología y en plena transición hacia el mundo del Data Ana
 ❤️ Me encanta descubrir formas de automatizar procesos, mejorar la experiencia del usuario y contar historias con datos
 
 📩 ¿Quieres conectar conmigo? 📬  
-[LinkedIn](www.linkedin.com/in/diego-torres-b2602b255) • [GitHub](https://github.com/Twrz97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/diego-torres-b2602b255) • [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Twrz97)
 
 
 ### 🌏Lenguajes y Herramientas🛠️
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
