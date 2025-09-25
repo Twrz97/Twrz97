@@ -5,7 +5,7 @@
 # Hola, Soy Diego Torres🚀
 ### Data Analyst | Data Storytelling | Reporting Automation | Python | SQL | Power BI | Tableau | Excel
 
-¡Hola! 👋 Soy Diego, ingeniero con más de 8 años de experiencia en análisis operativo. Actualmente me especializo en análisis de datos, automatización de reportes y sistemas centrados en el usuario. Me apasiona convertir datos en historias que generen impacto.
+¡Hola! 👋Soy Diego, ingeniero con más de 8 años de experiencia en análisis operativo. Actualmente me especializo en análisis de datos, automatización de reportes y sistemas centrados en el usuario. Me apasiona convertir datos en historias que generen impacto.
 
 ## 🎯Sobre mí
 
@@ -31,7 +31,7 @@ Currently transitioning into the world of Data Analytics, driven by a passion fo
 
 ---
 
-## About Me (English Version)
+## 🎯About Me (English Version)
 
 Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analysis. I'm currently focused on data analytics, reporting automation, and user-centered systems. I love turning data into stories that drive business impact.
 
