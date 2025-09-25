@@ -14,7 +14,7 @@ Apasionado por la tecnología y en plena transición hacia el mundo del Data Ana
 ❤️ Me encanta descubrir formas de automatizar procesos, mejorar la experiencia del usuario y contar historias con datos
 
 📩 ¿Quieres conectar conmigo? 📬  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/diego-torres-b2602b255) • [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Twrz97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-torres-b2602b255) • [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Twrz97)
 
 
 ### 🌏Lenguajes y Herramientas🛠️
