@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github%20portrait.png" alt="GitHub Portrait" />
+</p>
+
 # Hola, Soy Diego Torres🚀
 ### Data Analyst | Data Storytelling | Reporting Automation | Python | SQL | Power BI | Tableau | Excel
 
