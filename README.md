@@ -2,28 +2,40 @@
   <img src="assets/github%20portrait.png" alt="GitHub Portrait" />
 </p>
 
-# Hola, Soy Diego Torres🚀
+# Hello, I'm Diego Torres 🚀  
+# Hola, Soy Diego Torres 🚀
+## *| Data Storytelling | Automatización de Reportes | Python | SQL | Power BI | Tableau | Excel*
 
-### Data Analyst | Data Storytelling | Reporting Automation | Python | SQL | Power BI | Tableau | Excel
+### Engineer transitioning into Data Analysis 
+### Ingeniero en transición hacia el Análisis de Datos 
 
-¡Hola! 👋Soy Diego, ingeniero con más de 8 años de experiencia en análisis operativo. Actualmente me especializo en análisis de datos, automatización de reportes y sistemas centrados en el usuario. Me apasiona convertir datos en historias que generen impacto.
+---
 
-## 🎯Sobre mí
+## 🎯 About Me | Sobre mí
 
-Apasionado por la tecnología y en plena transición hacia el mundo del Data Analytics 🚀
-Currently transitioning into the world of Data Analytics, driven by a passion for technology 🚀
+Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analysis. I'm currently focused on data analytics, reporting automation, and user-centered systems. I love turning data into stories that drive business impact.  
+*¡Hola! 👋 Soy Diego, ingeniero con más de 8 años de experiencia en análisis operativo. Actualmente me especializo en análisis de datos, automatización de reportes y sistemas centrados en el usuario. Me apasiona convertir datos en historias que generen impacto.*
 
-📌 Actualmente trabajo en el área de documentación y análisis operativo dentro del sector construcción, pero estoy enfocado en nuevos retos dentro del análisis de datos y éxito del cliente 💥
+🚀 Passionate about technology and actively transitioning into the world of Data Analytics.  
+🚀 *Apasionado por la tecnología y en plena transición hacia el mundo del Data Analytics.*
 
-📚 Estoy estudiando 🧠 y practicando 💻 Python, SQL, Power BI y Tableau, sin dejar de lado las herramientas clave como Excel avanzado
+🔍 Currently seeking new opportunities in data analysis and customer success.  
+🔍 *En búsqueda activa de nuevas oportunidades en análisis de datos y éxito del cliente.*
 
-❤️ Me encanta descubrir formas de automatizar procesos, mejorar la experiencia del usuario y contar historias con datos
+📚 Practicing and refining skills in Python, SQL, Power BI, Tableau, and advanced Excel.  
+📚 *Estudiando y practicando Python, SQL, Power BI, Tableau y Excel avanzado.*
 
-📩 ¿Quieres conectar conmigo? 📬  
+❤️ I enjoy automating processes, improving user experience, and telling stories with data.  
+❤️ *Me encanta descubrir formas de automatizar procesos, mejorar la experiencia del usuario y contar historias con datos.*
+
+📩 Want to connect?  
+📩 *¿Quieres conectar conmigo?*  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-torres-b2602b255) • [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Twrz97)
 
+---
 
-### 🌏Lenguajes y Herramientas🛠️
+### 🌏 Languages & Tools | Lenguajes y Herramientas
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -32,16 +44,13 @@ Currently transitioning into the world of Data Analytics, driven by a passion fo
 
 ---
 
-## 🎯About Me (English Version)
+## 📈 GitHub Stats | Estadísticas de GitHub
 
-Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analysis. I'm currently focused on data analytics, reporting automation, and user-centered systems. I love turning data into stories that drive business impact.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Twrz97&show_icons=true&theme=radical)
 
+---
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas Twrz97](https://github-readme-stats.vercel.app/api?username=Twrz97&show_icons=true&theme=radical)
-
-## 🧠 Lenguajes más usados / Most used languages
+## 🧠 Most Used Languages | Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twrz97&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
