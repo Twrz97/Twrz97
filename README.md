@@ -3,7 +3,7 @@
 </p>
 
 # Hello, I'm Diego Torres 🚀  
-# Hola, Soy Diego Torres 🚀
+## *Hola, Soy Diego Torres* 🚀
 ## *| Data Storytelling | Automatización de Reportes | Python | SQL | Power BI | Tableau | Excel*
 
 ### Engineer transitioning into Data Analysis 
