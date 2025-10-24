@@ -5,7 +5,7 @@
 # Hello, I'm Diego Torres 🚀  
 ## *Hola, Soy Diego Torres* 🚀
 ## *| Data Storytelling | Automatización de Reportes | Python | SQL | Power BI | Tableau | Excel*
-
+---
 ### Engineer transitioning into Data Analysis 
 ### *Ingeniero en transición hacia el Análisis de Datos* 
 
@@ -13,9 +13,11 @@
 
 ## 🎯 About Me | *Sobre mí*
 
-Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analysis. I'm currently focused on data analytics, reporting automation, and user-centered systems. I love turning data into stories that drive business impact.  
+Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analysis. I'm currently focused on data analytics, reporting automation, and user-centered systems. I love turning data into stories that drive business impact. 
+
 *¡Hola! 👋 Soy Diego, ingeniero con más de 8 años de experiencia en análisis operativo. Actualmente me especializo en análisis de datos, automatización de reportes y sistemas centrados en el usuario. Me apasiona convertir datos en historias que generen impacto.*
 
+---
 🚀 Passionate about technology and actively transitioning into the world of Data Analytics.  
 🚀 *Apasionado por la tecnología y en plena transición hacia el mundo del Data Analytics.*
 
@@ -28,6 +30,7 @@ Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analy
 ❤️ I enjoy automating processes, improving user experience, and telling stories with data.  
 ❤️ *Me encanta descubrir formas de automatizar procesos, mejorar la experiencia del usuario y contar historias con datos.*
 
+---
 📩 Want to connect? / *¿Quieres conectar conmigo?*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-torres-b2602b255) • [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Twrz97)
 
