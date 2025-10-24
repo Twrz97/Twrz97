@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github%20portrait.png" alt="GitHub Portrait" />
+  <img src="assets/Diego%20Torres%202.PNG" alt="Retrato profesional de Diego Torres" />
 </p>
 
 # Hello, I'm Diego Torres 🚀  
