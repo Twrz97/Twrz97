@@ -7,11 +7,11 @@
 ## *| Data Storytelling | Automatización de Reportes | Python | SQL | Power BI | Tableau | Excel*
 
 ### Engineer transitioning into Data Analysis 
-### Ingeniero en transición hacia el Análisis de Datos 
+### *Ingeniero en transición hacia el Análisis de Datos* 
 
 ---
 
-## 🎯 About Me | Sobre mí
+## 🎯 About Me | *Sobre mí*
 
 Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analysis. I'm currently focused on data analytics, reporting automation, and user-centered systems. I love turning data into stories that drive business impact.  
 *¡Hola! 👋 Soy Diego, ingeniero con más de 8 años de experiencia en análisis operativo. Actualmente me especializo en análisis de datos, automatización de reportes y sistemas centrados en el usuario. Me apasiona convertir datos en historias que generen impacto.*
@@ -28,13 +28,12 @@ Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analy
 ❤️ I enjoy automating processes, improving user experience, and telling stories with data.  
 ❤️ *Me encanta descubrir formas de automatizar procesos, mejorar la experiencia del usuario y contar historias con datos.*
 
-📩 Want to connect?  
-📩 *¿Quieres conectar conmigo?*  
+📩 Want to connect? / *¿Quieres conectar conmigo?*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-torres-b2602b255) • [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Twrz97)
 
 ---
 
-### 🌏 Languages & Tools | Lenguajes y Herramientas
+### 🌏 Languages & Tools | *Lenguajes y Herramientas*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -44,13 +43,13 @@ Hi! 👋 I'm Diego, an engineer with 8+ years of experience in operational analy
 
 ---
 
-## 📈 GitHub Stats | Estadísticas de GitHub
+## 📈 GitHub Stats | *Estadísticas de GitHub*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Twrz97&show_icons=true&theme=radical)
 
 ---
 
-## 🧠 Most Used Languages | Lenguajes más usados
+## 🧠 Most Used Languages | *Lenguajes más usados*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twrz97&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
